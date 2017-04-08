@@ -1,7 +1,6 @@
 
 
-Machine Learning
------
+# Machine Learning
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -197,10 +196,11 @@ josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 
 </div>
 
-
-
-Statistics
 -----
+
+
+
+# Statistics
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -283,10 +283,11 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
-
-
-Data Science
 -----
+
+
+
+# Data Science
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -470,10 +471,11 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
-
-
-Linux & Tools
 -----
+
+
+
+# Linux & Tools
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -483,10 +485,11 @@ Book](https://git-scm.com/book/en/v2)
 
 </div>
 
-
-
-English & Self-Development
 -----
+
+
+
+# English & Self-Development
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -505,6 +508,8 @@ Story - University of Pennsylvania |
 Coursera](https://www.coursera.org/learn/wharton-succcess/lecture/hWcmP/my-story)
 
 </div>
+
+-----
 
 
 
@@ -529,10 +534,11 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
+-----
+
 
 
 # R
-
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -594,10 +600,10 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
+-----
 
 
-Work
-------
+# Work
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -677,10 +683,11 @@ Developers](https://developers.gravityrd.com/wiki/display/RECO/Item+catalog)
 
 </div>
 
-
-
-Programming
 -----
+
+
+
+# Programming
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -707,10 +714,11 @@ Overview - Docker](https://docs.docker.com/engine/understanding-docker/)
 
 </div>
 
-
-
-MOOCs
 -----
+
+
+
+# MOOCs
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
