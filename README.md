@@ -13,8 +13,8 @@ Coursera](https://www.coursera.org/learn/datavisualization/lecture/7N1GE/3-1-3-g
 </div>
 
 <div
-
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.udacity.com) [Deep
 Learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
@@ -30,8 +30,8 @@ Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.1yzsz
 </div>
 
 <div
-
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=deeplearning.stanford.edu)
 [Unsupervised Feature Learning and Deep Learning
 Tutorial](http://deeplearning.stanford.edu/tutorial/)
@@ -39,8 +39,8 @@ Tutorial](http://deeplearning.stanford.edu/tutorial/)
 </div>
 
 <div
-
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=playground.tensorflow.org)
 [A Neural Network
 Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45469&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
