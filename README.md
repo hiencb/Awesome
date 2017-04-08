@@ -5,9 +5,11 @@ Machine Learning
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.coursera.org) [3.1.3.
 Graph Visualization - University of Illinois at Urbana-Champaign |
 Coursera](https://www.coursera.org/learn/datavisualization/lecture/7N1GE/3-1-3-graph-visualization)
+
 </div>
 
 <div
