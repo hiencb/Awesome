@@ -5,26 +5,8 @@
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
-![](https://www.google.com/s2/favicons?domain=www.coursera.org) [3.1.3.
-Graph Visualization - University of Illinois at Urbana-Champaign |
-Coursera](https://www.coursera.org/learn/datavisualization/lecture/7N1GE/3-1-3-graph-visualization)
-
-</div>
-
-<div
-style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
-
-![](https://www.google.com/s2/favicons?domain=www.udacity.com) [Deep
-Learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
-
-</div>
-
-<div
-style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
-
 ![](https://www.google.com/s2/favicons?domain=medium.com) [Machine
-Learning is Fun! &ndash;
-Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.1yzszkd2q)
+Learning is Fun! &ndash; Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.1yzszkd2q)
 
 </div>
 
@@ -32,8 +14,7 @@ Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.1yzsz
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=deeplearning.stanford.edu)
-[Unsupervised Feature Learning and Deep Learning
-Tutorial](http://deeplearning.stanford.edu/tutorial/)
+[Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/)
 
 </div>
 
@@ -41,8 +22,7 @@ Tutorial](http://deeplearning.stanford.edu/tutorial/)
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=playground.tensorflow.org)
-[A Neural Network
-Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45469&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+[A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45469&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 </div>
 
@@ -193,6 +173,36 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 ![](https://www.google.com/s2/favicons?domain=github.com)
 [awesome-machine-learning/blogs.md at master ·
 josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
+
+</div>
+
+## Specifications &amp; Courses
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.coursera.org) [Data Mining - University of Illinois at Urbana-Champaign | Coursera](https://www.coursera.org/specializations/data-mining)
+
+</div>
+
+<div
+style="padding-left: 48px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.coursera.org) [Graph Visualization - University of Illinois at Urbana-Champaign | Coursera](https://www.coursera.org/learn/datavisualization/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.udacity.com) [Deep Learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=bigdatauniversity.com) [Deep Learning With TensorFlow Course by BDU](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 
 </div>
 
