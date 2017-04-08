@@ -58,8 +58,8 @@ Adit Deshpande &ndash; CS Undergrad at UCLA
 </div>
 
 <div
-
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=machinelearningmastery.com)
 [Best Machine Learning Resources for Getting
 Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
