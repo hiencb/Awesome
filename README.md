@@ -291,6 +291,20 @@ Data Science
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=datafloq.com) [8 Easy Steps to Become a Data Scientist](https://datafloq.com/read/8-steps-become-data-scientist/658)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.analyticsvidhya.com) [Most Active Data Scientists, Free Books, Notebooks &amp; Tutorials on Github](https://www.analyticsvidhya.com/blog/2016/09/most-active-data-scientists-free-books-notebooks-tutorials-on-github/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.udemy.com) [Scraping
 and Data Mining for Beginners and Pros |
 Udemy](https://www.udemy.com/scraping-and-data-mining-for-beginners-and-pros/?dtcode=OiThMBJ2GWAW)
@@ -494,8 +508,31 @@ Coursera](https://www.coursera.org/learn/wharton-succcess/lecture/hWcmP/my-story
 
 
 
-R
------
+# Python
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=pythontips.com/)
+[20 Python libraries you can&lsquo;t live without](https://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/)
+
+</div>
+
+
+## pandas
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=dataconomy.com/)
+[14 Best Python Pandas Features](http://dataconomy.com/2015/03/14-best-python-pandas-features/)
+
+</div>
+
+
+
+# R
+
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
