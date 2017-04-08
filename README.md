@@ -1,5 +1,3 @@
-
-
 # Machine Learning
 
 <div
@@ -176,6 +174,17 @@ josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 
 </div>
 
+
+## TensorFlow
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+</div>
+
+
 ## Specifications &amp; Courses
 
 <div
@@ -196,6 +205,13 @@ style="padding-left: 48px; padding-top: 8px; position: relative; font-size: 13px
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=www.udacity.com) [Deep Learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=bigdatauniversity.com) [Machine Learning with Python - BDU](https://bigdatauniversity.com/courses/machine-learning-with-python/)
 
 </div>
 
@@ -607,6 +623,14 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 ![](https://www.google.com/s2/favicons?domain=google.github.io)
 [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.kdnuggets.com)
+[The Best R Packages for Machine Learning](http://www.kdnuggets.com/2017/03/best-r-packages-machine-learning.html)
 
 </div>
 
