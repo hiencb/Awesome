@@ -160,8 +160,7 @@ course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=www.reddit.com) [Best
-Machine Learning Blogs; Suggestions? :
-MachineLearning](https://www.reddit.com/r/MachineLearning/comments/2baj3j/best_machine_learning_blogs_suggestions/)
+Machine Learning Blogs; Suggestions? : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/2baj3j/best_machine_learning_blogs_suggestions/)
 
 </div>
 
@@ -169,8 +168,7 @@ MachineLearning](https://www.reddit.com/r/MachineLearning/comments/2baj3j/best_m
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=github.com)
-[awesome-machine-learning/blogs.md at master ·
-josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
+[awesome-machine-learning/blogs.md at master · josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
 
 </div>
 
@@ -191,6 +189,13 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=www.tensorflow.org) [Tensorflow](https://www.tensorflow.org/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.tensorflow.org) [API Documentation | Tensorflow](https://www.tensorflow.org/api_docs/)
 
 </div>
 
