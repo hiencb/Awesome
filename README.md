@@ -175,7 +175,38 @@ josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 </div>
 
 
+## Deep Learning
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=deeplearning.net) [Deep Learning](http://deeplearning.net/)
+
+</div>
+
+
 ## TensorFlow
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.tensorflow.org) [Tensorflow](https://www.tensorflow.org/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [tensorflow/models: Models built with TensorFlow](https://github.com/tensorflow/models)
+
+</div>
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -219,6 +250,13 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=bigdatauniversity.com) [Deep Learning With TensorFlow Course by BDU](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.coursera.org) [Neural Networks for Machine Learning - University of Toronto | Coursera](https://www.coursera.org/learn/neural-networks/)
 
 </div>
 
@@ -481,19 +519,28 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
+
+## Public Data
+
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
-![](https://www.google.com/s2/favicons?domain=www.google.com) [Google
-Public Data Explorer](https://www.google.com/publicdata/directory)
+![](https://www.google.com/s2/favicons?domain=www.google.com) [Google Public Data Explorer](https://www.google.com/publicdata/directory)
+
+</div>
+
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.data.gov) [Data.gov](https://www.data.gov/)
 
 </div>
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
-![](https://www.google.com/s2/favicons?domain=data.worldbank.org) [Data
-| The World Bank](http://data.worldbank.org/)
+![](https://www.google.com/s2/favicons?domain=data.worldbank.org) [Data | The World Bank](http://data.worldbank.org/)
 
 </div>
 
