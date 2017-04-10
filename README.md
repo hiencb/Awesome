@@ -3,6 +3,13 @@
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=www.analyticsvidhya.com) [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=medium.com) [Machine
 Learning is Fun! &ndash; Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.1yzszkd2q)
 
@@ -169,6 +176,30 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 ![](https://www.google.com/s2/favicons?domain=github.com)
 [awesome-machine-learning/blogs.md at master · josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
+
+</div>
+
+
+## NLTK
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.nltk.org) [Natural Language Toolkit - NLTK 3.0 documentation](http://www.nltk.org/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.nltk.org) [NLTK Data](http://www.nltk.org/nltk_data/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.nltk.org) [NLTK Book](http://www.nltk.org/book/)
 
 </div>
 
@@ -603,6 +634,14 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 
 ## pandas
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=pandas.pydata.org/)
+[Visualization — pandas 0.19.2 documentation](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
+
+</div>
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
