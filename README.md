@@ -252,6 +252,16 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 </div>
 
 
+## Natural Language Processing
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [Natural language processing in 10 lines of code: Part 1](http://www.rubedo.com.br/2016/12/natural-language-processing-in-10-lines.html)
+
+</div>
+
+
 ## Specifications &amp; Courses
 
 <div
