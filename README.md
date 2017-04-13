@@ -252,6 +252,16 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 </div>
 
 
+## Sonnet
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+
+</div>
+
+
 ## Natural Language Processing
 
 <div
@@ -306,7 +316,7 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -393,7 +403,7 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -590,7 +600,7 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -604,7 +614,7 @@ Book](https://git-scm.com/book/en/v2)
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -628,7 +638,7 @@ Coursera](https://www.coursera.org/learn/wharton-succcess/lecture/hWcmP/my-story
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -661,7 +671,7 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -735,7 +745,7 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 # Work
@@ -818,7 +828,7 @@ Developers](https://developers.gravityrd.com/wiki/display/RECO/Item+catalog)
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
@@ -849,7 +859,7 @@ Overview - Docker](https://docs.docker.com/engine/understanding-docker/)
 
 </div>
 
------
+--------------------------------------------------------------------------------
 
 
 
