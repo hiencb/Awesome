@@ -213,6 +213,27 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [A Complete Guide on Getting Started with Deep Learning in Python](http://www.rubedo.com.br/2017/04/a-complete-guide-on-getting-started.html)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [Deep Learning : 40 tools you should know !](http://www.rubedo.com.br/2016/10/deep-learning-40-tools-you-should-know.html)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [UNDERSTANDING CONVOLUTIONAL NEURAL NETWORKS FOR NLP](http://www.rubedo.com.br/2016/10/understanding-convolutional-neural.html)
+
+</div>
+
 
 ## TensorFlow
 
@@ -268,6 +289,29 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [Natural language processing in 10 lines of code: Part 1](http://www.rubedo.com.br/2016/12/natural-language-processing-in-10-lines.html)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=arxiv.org) [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135)
+
+</div>
+
+<div
+style="padding-left: 48px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=arxiv.org) [[PDF] Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/pdf/1703.10135.pdf)
+
+</div>
+
+<div
+style="padding-left: 48px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=google.github.io) [Audio samples from "Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model"
+                                                          
+](https://google.github.io/tacotron/)
 
 </div>
 
