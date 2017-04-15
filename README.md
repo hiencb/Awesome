@@ -204,7 +204,7 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 </div>
 
 
-## Deep Learning
+## Neural Networks &amp; Deep Learning
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -230,7 +230,35 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=adeshpande3.github.io) [A Beginner's Guide To Understanding Convolutional Neural Networks – Adit Deshpande – CS Undergrad at UCLA ('19)](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [UNDERSTANDING CONVOLUTIONAL NEURAL NETWORKS FOR NLP](http://www.rubedo.com.br/2016/10/understanding-convolutional-neural.html)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=ayearofai.com) [Rohan &amp; Lenny #1: Neural Networks & The Backpropagation Algorithm, Explained](https://ayearofai.com/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=ayearofai.com) [Rohan &amp; Lenny #2: Convolutional Neural Networks – A Year of Artificial Intelligence](https://ayearofai.com/rohan-lenny-2-convolutional-neural-networks-5f4cd480a60b)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=ayearofai.com) [Rohan &amp; Lenny #3: Recurrent Neural Networks – A Year of Artificial Intelligence](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 
 </div>
 
@@ -295,6 +323,13 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=ayearofai.com) [Lenny #2: Autoencoders and Word Embeddings – A Year of Artificial Intelligence](https://ayearofai.com/lenny-2-autoencoders-and-word-embeddings-oh-my-576403b0113a)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=arxiv.org) [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135)
 
 </div>
@@ -312,6 +347,20 @@ style="padding-left: 48px; padding-top: 8px; position: relative; font-size: 13px
 ![](https://www.google.com/s2/favicons?domain=google.github.io) [Audio samples from "Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model"
                                                           
 ](https://google.github.io/tacotron/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=colah.github.io) [Deep Learning, NLP, and Representations - colah's blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=adeshpande3.github.io) [Deep Learning Research Review Week 3: Natural Language Processing – Adit Deshpande – CS Undergrad at UCLA ('19)](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing)
 
 </div>
 
