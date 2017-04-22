@@ -370,6 +370,20 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=github.com) [oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=course.fast.ai) [Practical Deep Learning For Coders—18 hours of lessons for free](http://course.fast.ai/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.coursera.org) [Data Mining - University of Illinois at Urbana-Champaign | Coursera](https://www.coursera.org/specializations/data-mining)
 
 </div>
