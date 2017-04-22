@@ -216,6 +216,20 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=karpathy.github.io) [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=randomekek.github.io) [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [A Complete Guide on Getting Started with Deep Learning in Python](http://www.rubedo.com.br/2017/04/a-complete-guide-on-getting-started.html)
 
 </div>
