@@ -251,9 +251,24 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=medium.com) [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [UNDERSTANDING CONVOLUTIONAL NEURAL NETWORKS FOR NLP](http://www.rubedo.com.br/2016/10/understanding-convolutional-neural.html)
 
 </div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.abigailsee.com) [Taming Recurrent Neural Networks for Better Summarization | Abigail See](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
+
+</div>
+
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -326,6 +341,27 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 
 ## Natural Language Processing
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.analyticsvidhya.com) [Ultimate Guide to Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.kaggle.com) [Part 1: For Beginners - Bag of Words - Bag of Words Meets Bags of Popcorn | Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=hackernoon.com) [Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://hackernoon.com/learning-ai-if-you-suck-at-math-p7-the-magic-of-natural-language-processing-f3819a689386)
+
+</div>
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
