@@ -237,6 +237,13 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
+![](https://www.google.com/s2/favicons?domain=www.youtube.com) [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
 ![](https://www.google.com/s2/favicons?domain=www.rubedo.com.br) [Deep Learning : 40 tools you should know !](http://www.rubedo.com.br/2016/10/deep-learning-40-tools-you-should-know.html)
 
 </div>
@@ -329,6 +336,13 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 </div>
 
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=cv-tricks.com) [A quick complete tutorial to save and restore Tensorflow models – CV-Tricks.com](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
+
+</div>
+
 
 ## Sonnet
 
@@ -341,6 +355,20 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 
 ## Natural Language Processing
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [keon/awesome-nlp: A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [gutfeeling/beginner_nlp: A curated list of beginner resources in Natural Language Processing](https://github.com/gutfeeling/beginner_nlp)
+
+</div>
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
@@ -360,6 +388,13 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=hackernoon.com) [Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://hackernoon.com/learning-ai-if-you-suck-at-math-p7-the-magic-of-natural-language-processing-f3819a689386)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [luchux/ipython-notebook-nltk: An introduction to Natural Language processing using NLTK with python.](https://github.com/luchux/ipython-notebook-nltk)
 
 </div>
 
@@ -415,12 +450,33 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 </div>
 
 
-## Specifications &amp; Courses
+## Specifications, Courses &amp; Tutorials
 
 <div
 style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
 
 ![](https://www.google.com/s2/favicons?domain=github.com) [oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [chiphuyen/tf-stanford-tutorials: This repository contains code examples for the course CS 20SI: TensorFlow for Deep Learning Research.](https://github.com/chiphuyen/tf-stanford-tutorials)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=github.com) [bonzanini/nlp-tutorial: Tutorial: Natural Language Processing in Python](https://github.com/bonzanini/nlp-tutorial)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=www.youtube.com) [NLTK with Python 3 for Natural Language Processing - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
 
 </div>
 
@@ -825,6 +881,25 @@ style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px
 
 ![](https://www.google.com/s2/favicons?domain=dataconomy.com/)
 [14 Best Python Pandas Features](http://dataconomy.com/2015/03/14-best-python-pandas-features/)
+
+</div>
+
+
+## Scrapy
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=doc.scrapy.org/)
+[Scrapy Tutorial — Scrapy 1.3.3 documentation](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+
+</div>
+
+<div
+style="padding-left: 24px; padding-top: 8px; position: relative; font-size: 13px;">
+
+![](https://www.google.com/s2/favicons?domain=sangaline.com/)
+[Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more | sangaline.com](http://sangaline.com/post/advanced-web-scraping-tutorial/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 </div>
 
